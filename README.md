@@ -1,7 +1,7 @@
 ![Design and Development ](https://github.com/chIvonnebelen/chIvonnebelen/blob/main/github.png)
 
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=3000&color=F71598&lines=Hello%2C+world!+%F0%9F%91%BD+I'm+ Ivonne  "/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=3000&color=F71598&lines=Hello%2C+world!+%F0%9F%91%BD+I'm+Ivonne"/>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chivonnebelen&label=Profile%20views&color=0e75b6&style=flat" alt="chivonnebelen" /> </p>
